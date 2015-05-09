@@ -1,0 +1,16 @@
+{
+  "name": "Instagram-application",
+  "version": "1.0.0",
+  "description": "Photo Apllication Using Instagram API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shafaiatul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "instagram-node": "^0.5.7"
+  }
+}
